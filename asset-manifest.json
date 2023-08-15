@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Figma_To_ReactMUI/static/css/main.2dcdd1a3.css",
+    "main.js": "/Figma_To_ReactMUI/static/js/main.3a317f21.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Figma_To_ReactMUI/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Figma_To_ReactMUI/index.html",
+    "main.2dcdd1a3.css.map": "/Figma_To_ReactMUI/static/css/main.2dcdd1a3.css.map",
+    "main.3a317f21.js.map": "/Figma_To_ReactMUI/static/js/main.3a317f21.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Figma_To_ReactMUI/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dcdd1a3.css",
+    "static/js/main.3a317f21.js"
+  ]
+}
